@@ -8,3 +8,18 @@
 	url = https://github.com/denizakdemir/covcombr
 	shallow = true
 	registered = true
+[submodule "EMMREML"]
+	path = EMMREML
+	url = https://github.com/cran/EMMREML
+	shallow = true
+	registered = true
+[submodule "SAMM"]
+	path = SAMM
+	url = https://github.com/cran/SAMM
+	shallow = true
+	registered = true
+[submodule "STPGA"]
+	path = STPGA
+	url = https://github.com/cran/STPGA
+	shallow = true
+	registered = true
