@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "CovCombR"]
 	path = CovCombR
-	url = https://github.com/denizakdemir/covcombr
+	url = https://github.com/cran/CovCombR
 [submodule "EMMREML"]
 	path = EMMREML
 	url = https://github.com/cran/EMMREML
