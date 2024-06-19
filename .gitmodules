@@ -8,9 +8,6 @@
 [submodule "EMMREML"]
 	path = EMMREML
 	url = https://github.com/cran/EMMREML
-[submodule "SAMM"]
-	path = SAMM
-	url = https://github.com/cran/SAMM
 [submodule "STPGA"]
 	path = STPGA
 	url = https://github.com/cran/STPGA
