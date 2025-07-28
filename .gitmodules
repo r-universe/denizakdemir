@@ -10,4 +10,4 @@
 	url = https://github.com/cran/EMMREML
 [submodule "STPGA"]
 	path = STPGA
-	url = https://github.com/cran/STPGA
+	url = https://github.com/denizakdemir/stpga
