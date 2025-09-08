@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CovCombR"]
-	path = CovCombR
-	url = https://github.com/cran/CovCombR
 [submodule "EMMREML"]
 	path = EMMREML
 	url = https://github.com/cran/EMMREML
