@@ -8,3 +8,6 @@
 [submodule "STPGA"]
 	path = STPGA
 	url = https://github.com/denizakdemir/stpga
+[submodule "causaldef"]
+	path = causaldef
+	url = https://github.com/denizakdemir/causaldef
